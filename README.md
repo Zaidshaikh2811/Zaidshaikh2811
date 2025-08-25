@@ -29,7 +29,6 @@ Working @ Sciqus Infotech, Pune / Mumbai • Passionate about AI-driven projects
 | **ActivityAI-Microservices-Platform** | Java | A scalable microservices platform powered by AI logic for activity tracking. |
 | **AI-Travel** | TypeScript | An intelligent travel assistant using AI to refine travel planning. |
 
-*(You can update names/descriptions to better reflect your actual project details.)*
 
 ---
 
