@@ -24,6 +24,7 @@ Working @ Sciqus Infotech, Pune / Mumbai • Passionate about AI-driven projects
 |--------------|------------|--------------|
 | **AI-Job-Application-Assistant** | TypeScript, AI APIs | Helps automate and optimize job applications using AI-enabled features. |
 | **PublicTransportComplain** | TypeScript | A portal to log, track, and analyze public transport complaints. |
+| **Native_BookStore** | React-Native | A native Android application for browsing and purchasing books. |
 | **Devpulse** | TypeScript | A project tracking or pulse-monitoring tool for development workflows. |
 | **MockInterview** | JavaScript | A practical tool to simulate coding interviews and improve preparation. |
 | **ActivityAI-Microservices-Platform** | Java | A scalable microservices platform powered by AI logic for activity tracking. |
