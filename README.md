@@ -54,7 +54,7 @@ Working @ Sciqus Infotech, Pune / Mumbai • Passionate about AI-driven projects
 
 ###  Let's Connect
 
--  **Portfolio / Devfolio**: [zaid-shaikh.vercel.app/](https://zaid-shaikh.vercel.app/)  
+-  **Portfolio / Devfolio**: [zaid-shaikh.vercel.app](https://zaid-shaikh.vercel.app/)  
 -  **LinkedIn**: [in/zaidshaikh2811](https://www.linkedin.com/in/zaidshaikh2811)  
 
 ---
