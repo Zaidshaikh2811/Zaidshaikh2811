@@ -7,7 +7,6 @@
 **MERN & React Native Developer** • **Java DSA Enthusiast**  
 Working @ Vector Stack, Bengaluru • Passionate about AI-driven projects & modern web infrastructure
 ---
-
 ###  About Me
 
 -  A versatile **full-stack developer** specializing in **MERN stack** and **React Native**.
