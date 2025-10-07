@@ -5,6 +5,7 @@
 #  Hi there, I'm **Zaid Shaikh** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 **MERN & React Native Developer** • **Java DSA Enthusiast**  
+
 Working @ Vector Stack, Bengaluru • Passionate about AI-driven projects & modern web infrastructure
 ---
 ###  About Me
