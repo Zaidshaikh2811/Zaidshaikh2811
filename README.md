@@ -32,6 +32,16 @@ Working @ Vector Stack, Bengaluru • Passionate about AI-driven projects & mode
 
 ---
 
+### 📦 My Public NPM Packages
+
+Here are the open-source npm packages I maintain:
+
+| Package | Description | Links |
+|---------|-------------|--------|
+| **use-fetch-smart** | A lightweight React hook for smart fetching with caching, retries, and persistent storage. | [NPM](https://www.npmjs.com/package/use-fetch-smart) • [GitHub](https://github.com/Zaidshaikh2811/use-fetch-smart) |
+
+---
+
 ###  Tech Stack
 
 - **Languages**: TypeScript, JavaScript, Java  
