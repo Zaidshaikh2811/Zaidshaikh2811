@@ -21,6 +21,7 @@ Working @ Vector Stack, Bengaluru • Passionate about AI-driven projects & mode
 
 | Project Name | Tech Stack | What It Does |
 |--------------|------------|--------------|
+| **Ticket-Forge** | TypeScript , NodeJS , Docker , Kubernetes | A ticket generation and management tool for creating, tracking, and organizing tasks efficiently. |
 | **AI-Job-Application-Assistant** | TypeScript, AI APIs | Helps automate and optimize job applications using AI-enabled features. |
 | **PublicTransportComplain** | TypeScript | A portal to log, track, and analyze public transport complaints. |
 | **Native_BookStore** | React-Native | A native Android application for browsing and purchasing books. |
