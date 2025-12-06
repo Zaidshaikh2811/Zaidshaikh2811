@@ -53,6 +53,8 @@ Here are the open-source npm packages I maintain:
 - **Interests**: Open Source, AI Integration, Scalable Systems
 
 ---
+![Github Views](https://views.igorkowalczyk.dev/api/badge/Zaidshaikh2811)
+![green](https://komarev.com/ghpvc/?username=Zaidshaikh2811&color=green)
 
 ###  GitHub Stats
 
