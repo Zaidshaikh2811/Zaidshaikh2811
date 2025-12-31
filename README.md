@@ -73,24 +73,6 @@ A production-ready React hook for:
 
 🔗 [NPM](https://www.npmjs.com/package/use-fetch-smart) • [GitHub](https://github.com/Zaidshaikh2811/use-fetch-smart)
 
----
-
-##  GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zaidshaikh2811&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-##  GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaidshaikh2811&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidshaikh2811&layout=compact&theme=radical" height="165"/>
-</p>
-
----
 
 ##  Connect
 
@@ -103,5 +85,5 @@ A production-ready React hook for:
 
 ---
 
-⭐ **Actively seeking backend-heavy, product-focused engineering roles**  
-📩 Open to impactful opportunities, collaborations, and challenging problems
+ **Actively seeking backend-heavy, product-focused engineering roles**  
+ Open to impactful opportunities, collaborations, and challenging problems
