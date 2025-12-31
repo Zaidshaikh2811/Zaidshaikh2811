@@ -6,72 +6,76 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Node.js • TypeScript • Microservices</b><br/>
-  Building scalable, production-ready web & AI-driven systems
+  <b>Software Engineer | Full-Stack (Backend-leaning)</b><br/>
+  Node.js • TypeScript • Microservices • Scalable Systems
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mumbai-blue"/>
   <img src="https://img.shields.io/badge/Experience-Full--Stack-success"/>
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-orange"/>
+  <img src="https://img.shields.io/badge/Open%20To-Product%20Roles-orange"/>
 </p>
 
 ---
 
-<!-- ===================== QUICK RECRUITER SUMMARY ===================== -->
+##  Recruiter Snapshot (10-Second Read)
 
-## 🚀 Quick Recruiter Snapshot
+-  **Current**: Software Engineer @ Vector Stack
+-  **Strengths**: Backend systems, REST APIs, Microservices, Clean Architecture
+-  **Primary Stack**: Node.js, TypeScript, Java
+-  **Frontend**: React, React Native
+-  **Focus Areas**: AI integration, scalability, performance, reliability
+-  **Open Source**: Published npm package with active usage
 
-- 💼 **Current**: Software Engineer @ Vector Stack (Bengaluru)
-- 🧠 **Core Strengths**: Full-Stack Development, REST APIs, Microservices
-- ⚙ **Backend Focus**: Node.js, TypeScript, Java
-- 🎨 **Frontend**: React, React Native
-- 🤖 **Interest Areas**: AI integration, scalable systems, clean architecture
-- 📦 **Open Source**: Published & maintained npm packages
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,express,react,reactnative,nextjs,docker,kubernetes,mongodb,postgres,redis,git,github,linux,aws&perline=9" />
-
+> I enjoy building **production-grade systems** that scale, are observable, and easy to maintain.
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+##  Tech Stack (Production-Focused)
 
-## 🚧 Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,express,react,reactnative,nextjs,docker,kubernetes,mongodb,postgres,redis,git,github,linux,aws&perline=9" />
+</p>
 
-| Project | Tech | Highlights |
-|------|------|-----------|
-| **Ticket-Forge** | TS, Node, Docker, K8s | Task & ticket management with scalable backend |
-| **AI Job Application Assistant** | TS, AI APIs | Automates job applications using AI |
-| **ActivityAI Microservices Platform** | Java | AI-powered microservices architecture |
-| **Native BookStore** | React Native | Android app for book browsing & purchases |
-| **MockInterview** | JavaScript | Simulates real coding interviews |
+**Concepts I work with regularly**
+- RESTful APIs • Microservices • System Design (basic)
+- Auth (JWT) • Caching • Async processing
+- Clean Code • SOLID principles • Performance optimization
 
 ---
 
-<!-- ===================== OPEN SOURCE ===================== -->
+##  Selected Projects (Impact-Driven)
 
-## 📦 Open Source & NPM
+| Project | Tech | Why It Matters |
+|-------|------|----------------|
+| **Ticket-Forge** | TS, Node, Docker, K8s | Designed scalable ticket/task system using containerized microservices |
+| **AI Job Application Assistant** | TS, AI APIs | Automated repetitive workflows using AI-driven logic |
+| **ActivityAI Microservices Platform** | Java | Built modular microservices with AI-powered activity tracking |
+| **Native BookStore** | React Native | End-to-end mobile app with real-world UX & state handling |
+| **MockInterview** | JavaScript | Practical interview simulation tool for engineers |
+
+> Projects emphasize **architecture, maintainability, and real-world usage** — not demos.
+
+---
+
+##  Open Source & NPM
 
 <p>
   <img src="https://img.shields.io/npm/v/use-fetch-smart?logo=npm"/>
   <img src="https://img.shields.io/npm/dm/use-fetch-smart"/>
 </p>
 
-**use-fetch-smart**  
-Smart React hook for fetching with caching, retries & persistence  
+### **use-fetch-smart**
+A production-ready React hook for:
+- Intelligent caching
+- Retry strategies
+- Persistent storage
+
 🔗 [NPM](https://www.npmjs.com/package/use-fetch-smart) • [GitHub](https://github.com/Zaidshaikh2811/use-fetch-smart)
 
 ---
 
-<!-- ===================== GITHUB TROPHIES ===================== -->
-
-## 🏆 GitHub Trophies
+##  GitHub Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zaidshaikh2811&theme=radical&no-frame=true&margin-w=10"/>
@@ -79,9 +83,7 @@ Smart React hook for fetching with caching, retries & persistence
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
-## 📊 GitHub Stats
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zaidshaikh2811&show_icons=true&theme=radical" height="165"/>
@@ -90,9 +92,7 @@ Smart React hook for fetching with caching, retries & persistence
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-## 🌐 Connect With Me
+##  Connect
 
 <a href="https://zaid-shaikh.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/>
@@ -103,5 +103,5 @@ Smart React hook for fetching with caching, retries & persistence
 
 ---
 
-⭐ **Actively building scalable systems & open to impactful opportunities**  
-📩 Let’s collaborate or build something meaningful together
+⭐ **Actively seeking backend-heavy, product-focused engineering roles**  
+📩 Open to impactful opportunities, collaborations, and challenging problems
