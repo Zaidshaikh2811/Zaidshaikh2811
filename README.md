@@ -18,8 +18,6 @@
 
 ---
 
-##  Recruiter Snapshot (10-Second Read)
-
 -  **Current**: Software Engineer @ Vector Stack
 -  **Strengths**: Backend systems, REST APIs, Microservices, Clean Architecture
 -  **Primary Stack**: Node.js, TypeScript, Java
