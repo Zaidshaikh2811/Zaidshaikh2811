@@ -6,8 +6,8 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer | Full-Stack (Backend-leaning)</b><br/>
-  Node.js • TypeScript • Microservices • Scalable Systems
+  <b>Software Engineer | Full-Stack </b><br/>
+  Next.js • Node.js • TypeScript • Microservices • Scalable Systems
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 -  **Current**: Software Engineer @ Vector Stack
 -  **Strengths**: Backend systems, REST APIs, Microservices, Clean Architecture
--  **Primary Stack**: Node.js, TypeScript, Java
--  **Frontend**: React, React Native
+-  **Primary Stack**: Node.js, SpringBoot , TypeScript 
+-  **Frontend**: NextJs/React, React Native
 -  **Focus Areas**: AI integration, scalability, performance, reliability
 -  **Open Source**: Published npm package with active usage
 
