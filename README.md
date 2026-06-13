@@ -18,7 +18,7 @@
 
 ---
 
--  **Current**: Software Engineer @ Vector Stack
+-  **Current**: Software Engineer @ Dectree Infotech Private Limited
 -  **Strengths**: Backend systems, REST APIs, Microservices, Clean Architecture
 -  **Primary Stack**: Node.js, SpringBoot , TypeScript 
 -  **Frontend**: NextJs/React, React Native
